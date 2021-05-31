@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Final project for our Java unit was to create an Akari light bulb puzzle game. May 25, 2021
+1. Students were given a java framework on where to work on. 
+2. We are tasked to fill up the java codes for Akari.java and AkariViewer.java to run the game
+    - Learnings include, reading files using Java, 2D arrays, setting up mouseclick actions and rendering the interface of the puzzle.
+3. This link hows the Video of the game - https://www.youtube.com/watch?v=6yNoggKafvA
